@@ -15,7 +15,7 @@
 1. مخزن را کلون کنید:
 
    ```
-   https://github.com/Red-Snows/Catista.git
+   git clone https://github.com/Red-Snows/Catista.git
          
 3. پروژه رو استارت کنید:
       ```bash
