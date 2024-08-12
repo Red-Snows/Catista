@@ -13,16 +13,17 @@
 ## نصب
 برای نصب پروژه:
 1. مخزن را کلون کنید:
-      ```bash
-      https://github.com/Red-Snows/Catista.git```
+
+   ```
+   https://github.com/Red-Snows/Catista.git
          
-2. پروژه رو استارت کنید:
+3. پروژه رو استارت کنید:
       ```bash
-      python bot.py```
+      python bot.py
    
-3. وابستگی‌ها را نصب کنید:
+4. وابستگی‌ها را نصب کنید:
       ```bash
-      pip install telebot```
+      pip install telebot
    
 
 
