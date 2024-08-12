@@ -13,8 +13,7 @@
 ## نصب
 برای نصب پروژه:
 1. مخزن را کلون کنید:
-
-   ```
+``` code:: shell
    git clone https://github.com/Red-Snows/Catista.git
          
 3. پروژه رو استارت کنید:
